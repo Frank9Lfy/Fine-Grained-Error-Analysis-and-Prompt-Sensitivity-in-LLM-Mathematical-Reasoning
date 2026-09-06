@@ -1,0 +1,79 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Atil et~al.(2025)Atil, Aykent, Chittams, Fu, Passonneau, Radcliffe,
+  Rajagopal, Sloan, Tudrej, Wu, Xu, and Baldwin]{atil2025nondeterminism}
+Berk Atil, Sarp Aykent, Alexa Chittams, Lisheng Fu, Rebecca~J. Passonneau, Evan
+  Radcliffe, Guru~Rajan Rajagopal, Adam Sloan, Tomasz Tudrej, Zhe Wu, Lixinyu
+  Xu, and Breck Baldwin.
+\newblock Non-determinism of "deterministic" llm settings.
+\newblock \emph{arXiv preprint arXiv:2408.04667}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2408.04667}.
+
+\bibitem[Brown et~al.(2020)]{brown2020language}
+Tom Brown et~al.
+\newblock Language models are few-shot learners.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2020.
+
+\bibitem[Cobbe et~al.(2021)Cobbe, Kosaraju, Bavarian, Chen, Jun, Kaiser,
+  Plappert, Tworek, Hilton, Nakano, et~al.]{cobbe2021training}
+Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz
+  Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano,
+  et~al.
+\newblock Training verifiers to solve math word problems.
+\newblock \emph{arXiv preprint arXiv:2110.14168}, 2021.
+
+\bibitem[Hendrycks et~al.(2021)Hendrycks, Burns, Kadavath, Arora, Basart, Tang,
+  Song, and Steinhardt]{hendrycks2021measuring}
+Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric
+  Tang, Dawn Song, and Jacob Steinhardt.
+\newblock Measuring mathematical problem solving with the math dataset.
+\newblock \emph{Advances in Neural Information Processing Systems}, 2021.
+
+\bibitem[Jo et~al.(2025)Jo, Lee, Lee, Lee, Park, and Yoo]{jo2025finding}
+Hwiyeol Jo, Joosung Lee, Jaehong Lee, Sang-Woo Lee, Joonsuk Park, and Kang~Min
+  Yoo.
+\newblock Finding answers in thought matters: Revisiting evaluation on large
+  language models with reasoning.
+\newblock \emph{arXiv preprint arXiv:2510.14773}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2510.14773}.
+
+\bibitem[Kim et~al.(2024)]{kismath2024}
+Jaehun Kim et~al.
+\newblock Kismath: A large-scale dataset for korean elementary math word
+  problems.
+\newblock \emph{arXiv preprint arXiv:2403.11039}, 2024.
+
+\bibitem[Kojima et~al.(2022)Kojima, Gu, Reid, Matsuo, and
+  Iwasawa]{kojima2022large}
+Takeshi Kojima, Shixiang~Shane Gu, Machel Reid, Yutaka Matsuo, and Yusuke
+  Iwasawa.
+\newblock Large language models are zero-shot reasoners.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  35:\penalty0 22199--22213, 2022.
+
+\bibitem[Mocanu et~al.(2024)]{prolog2024}
+Andrei Mocanu et~al.
+\newblock Prolog as a tool for checking math word problems datasets.
+\newblock \emph{arXiv preprint arXiv:2409.18534}, 2024.
+
+\bibitem[Potamitis et~al.(2025)Potamitis, Klein, and
+  Arora]{potamitis2025reasonbench}
+Nearchos Potamitis, Lars Klein, and Akhil Arora.
+\newblock Reasonbench: Benchmarking the (in)stability of llm reasoning.
+\newblock \emph{arXiv preprint arXiv:2512.07795}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2512.07795}.
+
+\bibitem[Wei et~al.(2022)Wei, Wang, Schuurmans, Bosma, Ichter, Xia, Chi, Le,
+  and Zhou]{wei2022chain}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia,
+  Ed~Chi, Quoc~V Le, and Denny Zhou.
+\newblock Chain-of-thought prompting elicits reasoning in large language
+  models.
+\newblock \emph{Advances in Neural Information Processing Systems}, 2022.
+
+\end{thebibliography}
